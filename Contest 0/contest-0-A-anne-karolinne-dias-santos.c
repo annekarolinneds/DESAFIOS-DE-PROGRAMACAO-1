@@ -6,5 +6,5 @@ int main (){
         if(entrada!=42){
             printf("%d\n",entrada);
         } else {break;}
-    }
+    }while(1);
 }
